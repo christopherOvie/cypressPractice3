@@ -1,0 +1,7 @@
+
+
+//framewofk design
+//1  create page objects ->class
+//2  create test data using fixtures>json
+//3  creating custom command of user defined functions
+//4  calling the custom function in the test file
